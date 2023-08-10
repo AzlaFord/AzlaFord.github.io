@@ -1,7 +1,7 @@
 <template>
     <!-- Navbar -->
   <section id="navbar" class="font-raleway">
-        <nav class="bg-background fixed w-full z-20 top-0 left-0 lg:pt-3">
+        <nav class="bg-background/50 backdrop-blur-md fixed w-full z-20 top-0 left-0 lg:pt-3">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="#" class="flex items-center ml-5">
                 <img src="/img/logo.png" class="h-8 mr-3" alt="Shandybroom">
